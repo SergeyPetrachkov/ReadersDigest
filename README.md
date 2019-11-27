@@ -7,3 +7,5 @@
 [Method dispatch + Memory layout](https://heartbeat.fritz.ai/understanding-method-dispatch-in-swift-684801e718bc)
 
 [iOS 13 navigation bar changes](https://sarunw.com/posts/uinavigationbar-changes-in-ios13/)
+
+[NSError](https://nshipster.com/nserror/)
