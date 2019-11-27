@@ -9,3 +9,5 @@
 [iOS 13 navigation bar changes](https://sarunw.com/posts/uinavigationbar-changes-in-ios13/)
 
 [NSError](https://nshipster.com/nserror/)
+
+[Weak array](https://marcosantadev.com/swift-arrays-holding-elements-weak-references/)
