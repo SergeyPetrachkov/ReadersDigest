@@ -11,3 +11,5 @@
 [NSError](https://nshipster.com/nserror/)
 
 [Weak array](https://marcosantadev.com/swift-arrays-holding-elements-weak-references/)
+
+[Hack into compiler](https://godbolt.org/)
