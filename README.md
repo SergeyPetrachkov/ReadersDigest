@@ -13,3 +13,7 @@
 [Weak array](https://marcosantadev.com/swift-arrays-holding-elements-weak-references/)
 
 [Hack into compiler](https://godbolt.org/)
+
+[Combine RU Habr](https://habr.com/ru/post/476678/)
+
+[Combine ultimate tutorial](https://theswiftdev.com/2019/10/31/the-ultimate-combine-framework-tutorial-in-swift/)
