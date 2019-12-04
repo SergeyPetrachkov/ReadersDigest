@@ -19,3 +19,5 @@
 [Combine ultimate tutorial](https://theswiftdev.com/2019/10/31/the-ultimate-combine-framework-tutorial-in-swift/)
 
 [Identifiable](https://nshipster.com/identifiable/)
+
+[ABBY CollectionView RU](https://habr.com/ru/company/abbyy/blog/477734/)
