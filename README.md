@@ -21,3 +21,5 @@
 [Identifiable](https://nshipster.com/identifiable/)
 
 [ABBY CollectionView RU](https://habr.com/ru/company/abbyy/blog/477734/)
+
+[Timeouts](https://forums.developer.apple.com/thread/73232)
