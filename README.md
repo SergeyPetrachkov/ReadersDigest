@@ -25,3 +25,5 @@
 [Timeouts](https://forums.developer.apple.com/thread/73232)
 
 [Badoo navigation RU](https://habr.com/ru/company/badoo/blog/483830/)
+
+[Memory part 5: What programmers can do](https://lwn.net/Articles/255364/)
