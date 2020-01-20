@@ -27,3 +27,5 @@
 [Badoo navigation RU](https://habr.com/ru/company/badoo/blog/483830/)
 
 [Memory part 5: What programmers can do](https://lwn.net/Articles/255364/)
+
+[VK Feed](https://habr.com/ru/company/vk/blog/481626/)
