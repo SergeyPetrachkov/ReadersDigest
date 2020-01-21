@@ -29,3 +29,5 @@
 [Memory part 5: What programmers can do](https://lwn.net/Articles/255364/)
 
 [VK Feed](https://habr.com/ru/company/vk/blog/481626/)
+
+[Artsy blog. SPM](https://artsy.github.io/blog/2019/01/05/its-time-to-use-spm/)
