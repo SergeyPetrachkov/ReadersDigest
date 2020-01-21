@@ -31,3 +31,5 @@
 [VK Feed](https://habr.com/ru/company/vk/blog/481626/)
 
 [Artsy blog. SPM](https://artsy.github.io/blog/2019/01/05/its-time-to-use-spm/)
+
+[Swift String interpolation RU](https://habr.com/ru/post/447586/)
