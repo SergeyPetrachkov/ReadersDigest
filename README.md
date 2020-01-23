@@ -37,3 +37,5 @@
 [pkg-config, might help with SPM](https://en.wikipedia.org/wiki/Pkg-config)
 
 [Interface targets](https://swiftrocks.com/reducing-ios-build-times-by-using-interface-targets.html)
+
+[Lost connection](https://developer.apple.com/library/archive/qa/qa1941/_index.html#//apple_ref/doc/uid/DTS40017602)
