@@ -41,3 +41,5 @@
 [Lost connection](https://developer.apple.com/library/archive/qa/qa1941/_index.html#//apple_ref/doc/uid/DTS40017602)
 
 [Dynamic members lookup](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift)
+
+[All about the Swift Package Manager and the Swift toolchain](https://theswiftdev.com/2019/01/14/all-about-the-swift-package-manager-and-the-swift-toolchain/)
