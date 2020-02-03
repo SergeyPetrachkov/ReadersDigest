@@ -45,3 +45,5 @@
 [All about the Swift Package Manager and the Swift toolchain](https://theswiftdev.com/2019/01/14/all-about-the-swift-package-manager-and-the-swift-toolchain/)
 
 [BitFunnel: Revisiting Signatures for Search](https://danluu.com/bitfunnel-sigir.pdf)
+
+[ApplePay ru](https://vc.ru/dev/103118-poshagovaya-instrukciya-po-integracii-apple-pay-v-vashe-mobilnoe-prilozhenie)
