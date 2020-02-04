@@ -47,3 +47,5 @@
 [BitFunnel: Revisiting Signatures for Search](https://danluu.com/bitfunnel-sigir.pdf)
 
 [ApplePay ru](https://vc.ru/dev/103118-poshagovaya-instrukciya-po-integracii-apple-pay-v-vashe-mobilnoe-prilozhenie)
+
+[System design interview tips for mobile developers](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b)
