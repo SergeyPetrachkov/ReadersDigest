@@ -51,3 +51,5 @@
 [System design interview tips for mobile developers](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b)
 
 [Objc Q&A](https://gist.github.com/CodaFi/a012ba4fb2df8b8826af2c85297f393e)
+
+[Reader-Writer swift](https://medium.com/@dmytro.anokhin/concurrency-in-swift-reader-writer-lock-4f255ae73422)
