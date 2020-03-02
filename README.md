@@ -55,3 +55,5 @@
 [Reader-Writer swift](https://medium.com/@dmytro.anokhin/concurrency-in-swift-reader-writer-lock-4f255ae73422)
 
 [Combine - RU](https://habr.com/ru/post/488442/)
+
+[analyzing-and-improving-build-times-in-ios](https://medium.com/flawless-app-stories/analyzing-and-improving-build-times-in-ios-5e2b77ef408e)
