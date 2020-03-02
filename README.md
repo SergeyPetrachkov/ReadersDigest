@@ -59,3 +59,5 @@
 [analyzing-and-improving-build-times-in-ios](https://medium.com/flawless-app-stories/analyzing-and-improving-build-times-in-ios-5e2b77ef408e)
 
 [Generics video](https://www.youtube.com/watch?v=ctS8FzqcRug)
+
+[Generics ru](https://habr.com/ru/post/451704/)
