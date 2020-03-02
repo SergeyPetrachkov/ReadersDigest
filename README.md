@@ -53,3 +53,5 @@
 [Objc Q&A](https://gist.github.com/CodaFi/a012ba4fb2df8b8826af2c85297f393e)
 
 [Reader-Writer swift](https://medium.com/@dmytro.anokhin/concurrency-in-swift-reader-writer-lock-4f255ae73422)
+
+[Combine - RU](https://habr.com/ru/post/488442/)
