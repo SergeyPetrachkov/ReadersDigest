@@ -63,3 +63,5 @@
 [Generics ru](https://habr.com/ru/post/451704/)
 
 [Charles ru](https://habr.com/ru/company/funcorp/blog/492940/)
+
+[Unmanaged swift](https://nshipster.com/unmanaged/)
