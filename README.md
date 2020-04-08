@@ -65,3 +65,5 @@
 [Charles ru](https://habr.com/ru/company/funcorp/blog/492940/)
 
 [Unmanaged swift](https://nshipster.com/unmanaged/)
+
+[Core data RU](https://habr.com/ru/post/436510/)
