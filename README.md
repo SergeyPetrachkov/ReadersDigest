@@ -67,3 +67,5 @@
 [Unmanaged swift](https://nshipster.com/unmanaged/)
 
 [Core data RU](https://habr.com/ru/post/436510/)
+
+[Xcode Playgrounds](https://www.pardel.net/blog/2019/swift-3rdparty-playgrounds)
