@@ -71,3 +71,5 @@
 [Xcode Playgrounds](https://www.pardel.net/blog/2019/swift-3rdparty-playgrounds)
 
 [Health kit. Some easy steps](https://crunchybagel.com/recording-workouts-in-healthkit/)
+
+[UIImage+NotificationService](https://blog.kulman.sk/dealing-with-memory-limits-in-app-extensions/)
