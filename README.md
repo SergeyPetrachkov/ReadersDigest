@@ -73,3 +73,5 @@
 [Health kit. Some easy steps](https://crunchybagel.com/recording-workouts-in-healthkit/)
 
 [UIImage+NotificationService](https://blog.kulman.sk/dealing-with-memory-limits-in-app-extensions/)
+
+[iOS interview questions](https://iosinterviewguide.com/ios-interview-questions-for-senior-developers-in-2020)
