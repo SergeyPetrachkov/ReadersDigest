@@ -75,3 +75,5 @@
 [UIImage+NotificationService](https://blog.kulman.sk/dealing-with-memory-limits-in-app-extensions/)
 
 [iOS interview questions](https://iosinterviewguide.com/ios-interview-questions-for-senior-developers-in-2020)
+
+[Swift+Obj-C runtime RU](https://medium.com/yandex-maps-mobile/objc-runtime-in-swift-2cbfbc59c5cb)
