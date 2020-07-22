@@ -79,3 +79,5 @@
 [Swift+Obj-C runtime RU](https://medium.com/yandex-maps-mobile/objc-runtime-in-swift-2cbfbc59c5cb)
 
 [As we may code swift](https://nshipster.com/as-we-may-code/)
+
+[Simctl in examples](https://medium.com/xcblog/simctl-control-ios-simulators-from-command-line-78b9006a20dc)
