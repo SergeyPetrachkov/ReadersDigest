@@ -81,3 +81,5 @@
 [As we may code swift](https://nshipster.com/as-we-may-code/)
 
 [Simctl in examples](https://medium.com/xcblog/simctl-control-ios-simulators-from-command-line-78b9006a20dc)
+
+[Changeable struct RU](https://habr.com/ru/company/hh/blog/511636/)
