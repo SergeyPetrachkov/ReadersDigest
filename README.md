@@ -83,3 +83,9 @@
 [Simctl in examples](https://medium.com/xcblog/simctl-control-ios-simulators-from-command-line-78b9006a20dc)
 
 [Changeable struct RU](https://habr.com/ru/company/hh/blog/511636/)
+
+[Implementing your own Crash reporter](https://developer.apple.com/forums/thread/113742)
+
+[Crash reporter I](https://stackoverflow.com/questions/54648806/intercepting-crashes-on-ios/54650600)
+
+[Crash reporter II](https://www.youtube.com/watch?v=6EsCWWXv7jg)
