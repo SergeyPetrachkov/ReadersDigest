@@ -89,3 +89,5 @@
 [Crash reporter I](https://stackoverflow.com/questions/54648806/intercepting-crashes-on-ios/54650600)
 
 [Crash reporter II](https://www.youtube.com/watch?v=6EsCWWXv7jg)
+
+[IAP problems](https://stackoverflow.com/questions/31812352/in-app-purchase-not-working-after-publishing-ios-app-to-app-store)
