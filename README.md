@@ -91,3 +91,5 @@
 [Crash reporter II](https://www.youtube.com/watch?v=6EsCWWXv7jg)
 
 [IAP problems](https://stackoverflow.com/questions/31812352/in-app-purchase-not-working-after-publishing-ios-app-to-app-store)
+
+[SwiftUI + MVI RU](https://habr.com/ru/post/512542/)
