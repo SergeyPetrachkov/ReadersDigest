@@ -93,3 +93,5 @@
 [IAP problems](https://stackoverflow.com/questions/31812352/in-app-purchase-not-working-after-publishing-ios-app-to-app-store)
 
 [SwiftUI + MVI RU](https://habr.com/ru/post/512542/)
+
+[Swift collection types](https://harshil.net/blog/swift-sequence-collection-array)
