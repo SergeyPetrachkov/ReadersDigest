@@ -97,3 +97,5 @@
 [Swift collection types](https://harshil.net/blog/swift-sequence-collection-array)
 
 [Objective-C posing (deprecated)](https://www.tutorialspoint.com/objective_c/objective_c_posing.htm#:~:text=Objective%2DC%20permits%20a%20class,received%20by%20the%20posing%20class.)
+
+[Combine + API](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/)
