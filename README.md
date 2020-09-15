@@ -103,3 +103,5 @@
 [it-looks-like-you-are-trying-to-use-a-framework](https://www.bignerdranch.com/blog/it-looks-like-you-are-trying-to-use-a-framework/)
 
 [Optimizing start time](https://developer.apple.com/videos/play/wwdc2016/406/)
+
+[library-static-dynamic-or-framework-project-inside-another-project](https://stackoverflow.com/questions/15331056/library-static-dynamic-or-framework-project-inside-another-project/59216151#59216151)
