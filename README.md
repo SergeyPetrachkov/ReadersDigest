@@ -99,3 +99,7 @@
 [Objective-C posing (deprecated)](https://www.tutorialspoint.com/objective_c/objective_c_posing.htm#:~:text=Objective%2DC%20permits%20a%20class,received%20by%20the%20posing%20class.)
 
 [Combine + API](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/)
+
+[it-looks-like-you-are-trying-to-use-a-framework](https://www.bignerdranch.com/blog/it-looks-like-you-are-trying-to-use-a-framework/)
+
+[Optimizing start time](https://developer.apple.com/videos/play/wwdc2016/406/)
