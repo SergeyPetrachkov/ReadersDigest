@@ -105,3 +105,5 @@
 [Optimizing start time](https://developer.apple.com/videos/play/wwdc2016/406/)
 
 [library-static-dynamic-or-framework-project-inside-another-project](https://stackoverflow.com/questions/15331056/library-static-dynamic-or-framework-project-inside-another-project/59216151#59216151)
+
+[improving_your_app_s_performance](https://developer.apple.com/documentation/metrickit/improving_your_app_s_performance/)
