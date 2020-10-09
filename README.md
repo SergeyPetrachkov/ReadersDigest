@@ -109,3 +109,5 @@
 [improving_your_app_s_performance](https://developer.apple.com/documentation/metrickit/improving_your_app_s_performance/)
 
 [Adding overlays and animations to videos](https://www.raywenderlich.com/2734-avfoundation-tutorial-adding-overlays-and-animations-to-videos)
+
+[Adding overlays and animations to videos II](https://www.raywenderlich.com/6236502-avfoundation-tutorial-adding-overlays-and-animations-to-videos)
