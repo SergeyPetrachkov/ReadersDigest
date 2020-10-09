@@ -107,3 +107,5 @@
 [library-static-dynamic-or-framework-project-inside-another-project](https://stackoverflow.com/questions/15331056/library-static-dynamic-or-framework-project-inside-another-project/59216151#59216151)
 
 [improving_your_app_s_performance](https://developer.apple.com/documentation/metrickit/improving_your_app_s_performance/)
+
+[Adding overlays and animations to videos](https://www.raywenderlich.com/2734-avfoundation-tutorial-adding-overlays-and-animations-to-videos)
