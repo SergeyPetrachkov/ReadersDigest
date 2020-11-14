@@ -111,3 +111,5 @@
 [Adding overlays and animations to videos](https://www.raywenderlich.com/2734-avfoundation-tutorial-adding-overlays-and-animations-to-videos)
 
 [Adding overlays and animations to videos II](https://www.raywenderlich.com/6236502-avfoundation-tutorial-adding-overlays-and-animations-to-videos)
+
+[memory-usage-virt-res-shr-mem](https://peteris.rocks/blog/htop/#memory-usage-virt-res-shr-mem)
