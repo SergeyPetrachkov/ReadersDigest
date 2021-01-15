@@ -1,4 +1,8 @@
-# ReadersDigest
+# Readers Digest 2021
+
+[Deinit not get called](https://www.jessesquires.com/blog/2020/10/08/swift-deinit-is-not-called-for-failable-initializers/)
+
+# ReadersDigest 2020
 
 [Weak References in Swift 4](https://mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html)
 
