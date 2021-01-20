@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[SoundCloud experience with Tuist and Xcode project generation](https://developers.soundcloud.com/blog/tuist-project-generation)
+
 [Deinit not get called](https://www.jessesquires.com/blog/2020/10/08/swift-deinit-is-not-called-for-failable-initializers/)
 
 # ReadersDigest 2020
