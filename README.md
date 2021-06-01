@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[CoreML, SwiftUI, Images processing](https://betterprogramming.pub/coreml-image-segmentation-background-remove-ca11e6f6a083)
+
 [Dark theme. Instagram experience](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
 
 [Fluid user interfaces. Instagram experience](https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface)
