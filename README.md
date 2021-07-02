@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Sheet happens](https://www.artemnovichkov.com/blog/sheet-happens)
+
 [SwiftUI WWDC21 must see](https://developer.apple.com/videos/play/wwdc2021/10022/)
 
 [CoreML, SwiftUI, Images processing](https://betterprogramming.pub/coreml-image-segmentation-background-remove-ca11e6f6a083)
