@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Refreshing wwdc video about custom animations](https://developer.apple.com/videos/play/wwdc2017/230/)
+
 [Sheet happens](https://www.artemnovichkov.com/blog/sheet-happens)
 
 [SwiftUI WWDC21 must see](https://developer.apple.com/videos/play/wwdc2021/10022/)
