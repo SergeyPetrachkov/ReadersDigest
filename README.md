@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Image loading and memory footprint](https://pspdfkit.com/blog/2021/image-loading-and-cropping-on-ios/)
+
 [Refreshing wwdc video about custom animations](https://developer.apple.com/videos/play/wwdc2017/230/)
 
 [Sheet happens](https://www.artemnovichkov.com/blog/sheet-happens)
