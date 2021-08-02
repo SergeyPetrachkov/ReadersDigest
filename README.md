@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Yandex + SPM](https://habr.com/ru/company/yandex/blog/559938/)
+
 [Image loading and memory footprint](https://pspdfkit.com/blog/2021/image-loading-and-cropping-on-ios/)
 
 [Refreshing wwdc video about custom animations](https://developer.apple.com/videos/play/wwdc2017/230/)
