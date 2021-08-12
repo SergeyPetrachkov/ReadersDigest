@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[How Apple Sign in email can be nil](https://github.com/SergeyPetrachkov/ReadersDigest/blob/master/HowToGetNullEmailInAppleSignIn.md)
+
 [Yandex + SPM](https://habr.com/ru/company/yandex/blog/559938/)
 
 [Image loading and memory footprint](https://pspdfkit.com/blog/2021/image-loading-and-cropping-on-ios/)
