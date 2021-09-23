@@ -1,4 +1,7 @@
 # Readers Digest 2021
+
+[Swift async-await. Short overview.](https://www.avanderlee.com/swift/async-await/)
+
 [Monorepo. Please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
 
 [How Apple Sign in email can be nil](https://github.com/SergeyPetrachkov/ReadersDigest/blob/master/HowToGetNullEmailInAppleSignIn.md)
