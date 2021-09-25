@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Connecting async await with other swift code](https://www.swiftbysundell.com/articles/connecting-async-await-with-other-swift-code/)
+
 [Swift async-await. Short overview.](https://www.avanderlee.com/swift/async-await/)
 
 [Monorepo. Please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
