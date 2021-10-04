@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[A series of articles about modern concurrency in Swift](https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/)
+
 [Connecting async await with other swift code](https://www.swiftbysundell.com/articles/connecting-async-await-with-other-swift-code/)
 
 [Swift async-await. Short overview.](https://www.avanderlee.com/swift/async-await/)
