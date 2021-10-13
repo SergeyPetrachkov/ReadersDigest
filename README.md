@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Decision making in flat organizations](https://blog.doist.com/decision-making-flat-organization/)
+
 [EXC_BAD_ACCESS explained](https://www.avanderlee.com/swift/exc-bad-access-crash/)
 
 [Combine Gotchas](https://swiftunwrap.com/article/combine-tips-tricks/)
