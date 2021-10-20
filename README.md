@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[why optional closures are escaping. short and straightforward](https://www.jessesquires.com/blog/2018/06/10/why-optional-swift-closures-are-escaping/)
+
 [App states overview](https://medium.com/@arunk.pattanayak/interview-questions-on-ios-application-states-ba99ead79ce6)
 
 [Decision making in flat organizations](https://blog.doist.com/decision-making-flat-organization/)
