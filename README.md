@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Download files with Combine](https://theswiftdev.com/how-to-download-files-with-urlsession-using-combine-publishers-and-subscribers/)
+
 [Dynamic & Static linking cheatsheet](https://bpoplauschi.github.io/2021/10/25/Advanced-static-vs-dynamic-libraries-and-frameworks.html)
 
 [Watch out! KVO strikes back](https://drewag.me/posts/2019/09/02/careful-with-fancy-kvo-callback)
