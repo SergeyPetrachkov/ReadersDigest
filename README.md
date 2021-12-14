@@ -1,5 +1,7 @@
 # Readers Digest 2021
 
+[Great gist about Concurrency in iOS](https://gist.github.com/FWEugene/3861f0460c3e23f684e113f0f8d6947f)
+
 [Download files with Combine](https://theswiftdev.com/how-to-download-files-with-urlsession-using-combine-publishers-and-subscribers/)
 
 [Dynamic & Static linking cheatsheet](https://bpoplauschi.github.io/2021/10/25/Advanced-static-vs-dynamic-libraries-and-frameworks.html)
