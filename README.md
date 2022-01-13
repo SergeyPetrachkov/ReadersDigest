@@ -1,3 +1,7 @@
+# Readers Digest 2022
+
+[OOM and a few thoughts](https://medium.com/compass-true-north/the-case-of-ios-oom-crashes-at-compass-96ec812397e8)
+
 # Readers Digest 2021
 
 [Great gist about Concurrency in iOS](https://gist.github.com/FWEugene/3861f0460c3e23f684e113f0f8d6947f)
