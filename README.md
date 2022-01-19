@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Avoid race conditions. Swift](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26)
+
 [OOM and a few thoughts](https://medium.com/compass-true-north/the-case-of-ios-oom-crashes-at-compass-96ec812397e8)
 
 # Readers Digest 2021
