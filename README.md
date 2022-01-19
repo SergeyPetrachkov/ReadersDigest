@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Actor re-entrancy](https://swiftsenpai.com/swift/actor-reentrancy-problem/)
+
 [Avoid race conditions. Swift](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26)
 
 [OOM and a few thoughts](https://medium.com/compass-true-north/the-case-of-ios-oom-crashes-at-compass-96ec812397e8)
