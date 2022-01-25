@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Reducing the build time](https://medium.com/gojekengineering/reducing-our-build-time-by-50-835b54c99588)
+
 [Actor re-entrancy](https://swiftsenpai.com/swift/actor-reentrancy-problem/)
 
 [Avoid race conditions. Swift](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26)
