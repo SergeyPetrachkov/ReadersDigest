@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Check your dependencies!](https://blog.devgenius.io/swiftdependencychecker-check-cocoapods-carthage-and-swift-pm-dependencies-for-known-def2fba890c)
+
 [Reducing the build time](https://medium.com/gojekengineering/reducing-our-build-time-by-50-835b54c99588)
 
 [Actor re-entrancy](https://swiftsenpai.com/swift/actor-reentrancy-problem/)
