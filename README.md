@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Arm64 to Sim](https://bogo.wtf/arm64-to-sim-dylibs.html)
+
 [Check your dependencies!](https://blog.devgenius.io/swiftdependencychecker-check-cocoapods-carthage-and-swift-pm-dependencies-for-known-def2fba890c)
 
 [Reducing the build time](https://medium.com/gojekengineering/reducing-our-build-time-by-50-835b54c99588)
