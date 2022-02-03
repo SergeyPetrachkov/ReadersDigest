@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Silent push notifications and lifecycle](https://medium.com/@cam.ilker/ios-appdelegate-lifecycle-done-right-fb5f50acf350)
+
 [Arm64 to Sim](https://bogo.wtf/arm64-to-sim-dylibs.html)
 
 [Check your dependencies!](https://blog.devgenius.io/swiftdependencychecker-check-cocoapods-carthage-and-swift-pm-dependencies-for-known-def2fba890c)
