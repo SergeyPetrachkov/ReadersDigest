@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Flo and tech-debt](https://medium.com/flo-health/how-to-deal-with-tech-debt-at-the-scale-of-super-app-90da136d576d)
+
 [Progress views SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/progressview-in-swiftui/)
 
 [Silent push notifications and lifecycle](https://medium.com/@cam.ilker/ios-appdelegate-lifecycle-done-right-fb5f50acf350)
