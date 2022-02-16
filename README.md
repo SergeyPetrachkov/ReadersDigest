@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Progress views SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/progressview-in-swiftui/)
+
 [Silent push notifications and lifecycle](https://medium.com/@cam.ilker/ios-appdelegate-lifecycle-done-right-fb5f50acf350)
 
 [Arm64 to Sim](https://bogo.wtf/arm64-to-sim-dylibs.html)
