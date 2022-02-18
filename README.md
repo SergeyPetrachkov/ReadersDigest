@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[App startup and order files](https://www.emergetools.com/blog/posts/FasterAppStartupOrderFiles)
+
 [Flo and tech-debt](https://medium.com/flo-health/how-to-deal-with-tech-debt-at-the-scale-of-super-app-90da136d576d)
 
 [Progress views SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/progressview-in-swiftui/)
