@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Yet another article about iOS interviews](http://martiancraft.com/blog/2022/02/ios-developer-inverviews/)
+
 [App startup and order files](https://www.emergetools.com/blog/posts/FasterAppStartupOrderFiles)
 
 [Flo and tech-debt](https://medium.com/flo-health/how-to-deal-with-tech-debt-at-the-scale-of-super-app-90da136d576d)
