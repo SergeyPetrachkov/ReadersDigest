@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[What is self in self-executing anonymous closures?](https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/)
+
 [Yet another article about iOS interviews](http://martiancraft.com/blog/2022/02/ios-developer-inverviews/)
 
 [App startup and order files](https://www.emergetools.com/blog/posts/FasterAppStartupOrderFiles)
