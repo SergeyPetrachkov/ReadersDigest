@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Microapps architecture + DI with Swift](https://swiftwithmajid.com/2022/02/02/microapps-architecture-in-swift-dependency-injection/)
+
 [What is self in self-executing anonymous closures?](https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/)
 
 [Yet another article about iOS interviews](http://martiancraft.com/blog/2022/02/ios-developer-inverviews/)
