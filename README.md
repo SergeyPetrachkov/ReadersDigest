@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Tests of Combine](https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-3.html)
+
 [Microapps architecture + DI with Swift](https://swiftwithmajid.com/2022/02/02/microapps-architecture-in-swift-dependency-injection/)
 
 [What is self in self-executing anonymous closures?](https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/)
