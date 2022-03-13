@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Authorize SpotifyAPI for dummies](https://medium.com/swlh/authenticate-with-spotify-in-ios-ae6612ecca91)
+
 [Tests of Combine](https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-3.html)
 
 [Microapps architecture + DI with Swift](https://swiftwithmajid.com/2022/02/02/microapps-architecture-in-swift-dependency-injection/)
