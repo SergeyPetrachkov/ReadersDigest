@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Main Actor and how to run code on the main Queue](https://www.hackingwithswift.com/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue)
+
 [Authorize SpotifyAPI for dummies](https://medium.com/swlh/authenticate-with-spotify-in-ios-ae6612ecca91)
 
 [Tests of Combine](https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-3.html)
