@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Hot reloading in Swift](https://merowing.info/2022/04/hot-reloading-in-swift/)
+
 [Does one need to always use weak self? Cool charts included.](https://medium.com/swlh/you-dont-need-to-use-weak-self-regularly-447ecf8b99b9)
 
 [Main Actor and how to run code on the main Queue](https://www.hackingwithswift.com/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue)
