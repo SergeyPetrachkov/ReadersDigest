@@ -1,6 +1,8 @@
 # Readers Digest 2022
 
-[AsyncSequence and Publisher](https://www.donnywals.com/comparing-use-cases-for-async-sequences-and-publishers/)
+[Lifecycle management comparison for AsyncSequence and Publisher](https://www.donnywals.com/comparing-lifecycle-management-for-async-sequences-and-publishers/)
+
+[AsyncSequence and Publisher usecases](https://www.donnywals.com/comparing-use-cases-for-async-sequences-and-publishers/)
 
 [Hot reloading in Swift](https://merowing.info/2022/04/hot-reloading-in-swift/)
 
