@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[AsyncSequence and Publisher](https://www.donnywals.com/comparing-use-cases-for-async-sequences-and-publishers/)
+
 [Hot reloading in Swift](https://merowing.info/2022/04/hot-reloading-in-swift/)
 
 [Does one need to always use weak self? Cool charts included.](https://medium.com/swlh/you-dont-need-to-use-weak-self-regularly-447ecf8b99b9)
