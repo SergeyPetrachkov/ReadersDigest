@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[System design interview for mobile devs](https://github.com/weeeBox/mobile-system-design)
+
 [Lifecycle management comparison for AsyncSequence and Publisher](https://www.donnywals.com/comparing-lifecycle-management-for-async-sequences-and-publishers/)
 
 [AsyncSequence and Publisher usecases](https://www.donnywals.com/comparing-use-cases-for-async-sequences-and-publishers/)
