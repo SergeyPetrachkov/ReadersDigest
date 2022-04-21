@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[A few facts about Swift lang](https://betterprogramming.pub/4-lesser-known-swift-features-ddfbc9268aa9)
+
 [System design interview for mobile devs](https://github.com/weeeBox/mobile-system-design)
 
 [Lifecycle management comparison for AsyncSequence and Publisher](https://www.donnywals.com/comparing-lifecycle-management-for-async-sequences-and-publishers/)
