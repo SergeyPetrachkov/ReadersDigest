@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[A few nuances about playing audio in iOS apps](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
+
 [A few facts about Swift lang](https://betterprogramming.pub/4-lesser-known-swift-features-ddfbc9268aa9)
 
 [System design interview for mobile devs](https://github.com/weeeBox/mobile-system-design)
