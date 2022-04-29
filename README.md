@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Vintage apple](https://vintageapple.org/develop/)
+
 [A few nuances about playing audio in iOS apps](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
 
 [A few facts about Swift lang](https://betterprogramming.pub/4-lesser-known-swift-features-ddfbc9268aa9)
