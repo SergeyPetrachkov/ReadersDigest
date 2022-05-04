@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Once more about weak self and retain cycles. With examples.](https://chrisdownie.net/software/2022/04/10/the-golden-rules-of-weak-self/)
+
 [Vintage apple](https://vintageapple.org/develop/)
 
 [A few nuances about playing audio in iOS apps](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
