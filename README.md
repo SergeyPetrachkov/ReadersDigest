@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[SwiftUI views inside UICollectionView](https://medium.com/expedia-group-tech/swiftui-with-uicollectionview-aba7cbaf6d16)
+
 [An early look at swift extensible build tools](https://www.polpiella.dev/an-early-look-at-swift-extensible-build-tools)
 
 [Once more about weak self and retain cycles. With examples.](https://chrisdownie.net/software/2022/04/10/the-golden-rules-of-weak-self/)
