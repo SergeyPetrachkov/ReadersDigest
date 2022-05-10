@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[NWPathMonitor to replace Reachability?](https://medium.com/@rwbutler/nwpathmonitor-the-new-reachability-de101a5a8835)
+
 [SwiftUI views inside UICollectionView](https://medium.com/expedia-group-tech/swiftui-with-uicollectionview-aba7cbaf6d16)
 
 [An early look at swift extensible build tools](https://www.polpiella.dev/an-early-look-at-swift-extensible-build-tools)
