@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Medium and app architecture](https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e)
+
 [Medium and SwiftUI](https://medium.engineering/how-do-we-use-swiftui-in-the-medium-ios-application-8f7bd95416ce)
 
 [NWPathMonitor to replace Reachability?](https://medium.com/@rwbutler/nwpathmonitor-the-new-reachability-de101a5a8835)
