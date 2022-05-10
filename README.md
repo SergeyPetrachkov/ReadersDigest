@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Medium and SwiftUI](https://medium.engineering/how-do-we-use-swiftui-in-the-medium-ios-application-8f7bd95416ce)
+
 [NWPathMonitor to replace Reachability?](https://medium.com/@rwbutler/nwpathmonitor-the-new-reachability-de101a5a8835)
 
 [SwiftUI views inside UICollectionView](https://medium.com/expedia-group-tech/swiftui-with-uicollectionview-aba7cbaf6d16)
