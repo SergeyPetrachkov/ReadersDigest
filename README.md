@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Rewising reference counting](https://towardsdev.com/a-deep-dive-into-swift-reference-counting-5428eb755c1)
+
 [Medium and app architecture](https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e)
 
 [Medium and SwiftUI](https://medium.engineering/how-do-we-use-swiftui-in-the-medium-ios-application-8f7bd95416ce)
