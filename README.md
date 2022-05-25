@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Beginners guide to SPM plugins](https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/)
+
 [Rewising reference counting](https://towardsdev.com/a-deep-dive-into-swift-reference-counting-5428eb755c1)
 
 [Medium and app architecture](https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e)
