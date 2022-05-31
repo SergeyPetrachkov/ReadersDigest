@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[SwiftUI Property wrappers](https://swiftuipropertywrappers.com/)
+
 [Beginners guide to SPM plugins](https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/)
 
 [Rewising reference counting](https://towardsdev.com/a-deep-dive-into-swift-reference-counting-5428eb755c1)
