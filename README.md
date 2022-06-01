@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Undestanding schedulers in Combine](https://www.vadimbulavin.com/understanding-schedulers-in-swift-combine-framework/)
+
 [SwiftUI Property wrappers](https://swiftuipropertywrappers.com/)
 
 [Beginners guide to SPM plugins](https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/)
