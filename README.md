@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[SwiftUI+Firebase](https://peterfriese.dev/posts/replicating-reminder-swiftui-firebase-part1/)
+
 [Undestanding schedulers in Combine](https://www.vadimbulavin.com/understanding-schedulers-in-swift-combine-framework/)
 
 [SwiftUI Property wrappers](https://swiftuipropertywrappers.com/)
