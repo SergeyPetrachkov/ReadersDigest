@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Firebase + Async API, different ways](https://peterfriese.dev/posts/firebase-async-calls-swift/)
+
 [SwiftUI+Firebase](https://peterfriese.dev/posts/replicating-reminder-swiftui-firebase-part1/)
 
 [Undestanding schedulers in Combine](https://www.vadimbulavin.com/understanding-schedulers-in-swift-combine-framework/)
