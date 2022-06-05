@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[SwiftUI chat](https://iosapptemplates.com/blog/swiftui/swiftui-chat)
+
 [Firebase + Async API, different ways](https://peterfriese.dev/posts/firebase-async-calls-swift/)
 
 [SwiftUI+Firebase](https://peterfriese.dev/posts/replicating-reminder-swiftui-firebase-part1/)
