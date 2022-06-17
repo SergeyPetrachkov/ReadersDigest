@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Not an article but a video about Swift Concurrency troubleshooting](https://developer.apple.com/videos/play/wwdc2022/110350/)
+
 [SwiftUI chat](https://iosapptemplates.com/blog/swiftui/swiftui-chat)
 
 [Firebase + Async API, different ways](https://peterfriese.dev/posts/firebase-async-calls-swift/)
