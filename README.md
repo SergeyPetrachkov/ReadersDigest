@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Demistifying Xcode parallelism](https://developer.apple.com/videos/play/wwdc2022/110364)
+
 [Not an article but a video about Swift Concurrency troubleshooting](https://developer.apple.com/videos/play/wwdc2022/110350/)
 
 [SwiftUI chat](https://iosapptemplates.com/blog/swiftui/swiftui-chat)
