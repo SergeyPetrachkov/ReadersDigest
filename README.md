@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Combine and/or Swift concurrency](https://peterfriese.dev/posts/combine-vs-async/)
+
 [Demistifying Xcode parallelism](https://developer.apple.com/videos/play/wwdc2022/110364)
 
 [Not an article but a video about Swift Concurrency troubleshooting](https://developer.apple.com/videos/play/wwdc2022/110350/)
