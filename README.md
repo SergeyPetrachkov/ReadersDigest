@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Combine self-cancellable memory management](https://www.swiftbysundell.com/articles/combine-self-cancellable-memory-management/)
+
 [Combine and/or Swift concurrency](https://peterfriese.dev/posts/combine-vs-async/)
 
 [Demistifying Xcode parallelism](https://developer.apple.com/videos/play/wwdc2022/110364)
