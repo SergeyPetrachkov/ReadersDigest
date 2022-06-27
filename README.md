@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Difference between Catch and ReplaceError in Combine](https://www.donnywals.com/whats-the-difference-between-catch-and-replaceerror-in-combine/)
+
 [Combine self-cancellable memory management](https://www.swiftbysundell.com/articles/combine-self-cancellable-memory-management/)
 
 [Combine and/or Swift concurrency](https://peterfriese.dev/posts/combine-vs-async/)
