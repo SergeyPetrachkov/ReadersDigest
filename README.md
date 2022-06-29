@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Existential any](https://www.avanderlee.com/swift/existential-any/)
+
 [Difference between Catch and ReplaceError in Combine](https://www.donnywals.com/whats-the-difference-between-catch-and-replaceerror-in-combine/)
 
 [Combine self-cancellable memory management](https://www.swiftbysundell.com/articles/combine-self-cancellable-memory-management/)
