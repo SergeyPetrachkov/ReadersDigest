@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Advanced memory debugging for iOS](https://betterprogramming.pub/ios-advanced-memory-debugging-to-the-masses-24d25852a91c)
+
 [Existential any](https://www.avanderlee.com/swift/existential-any/)
 
 [Difference between Catch and ReplaceError in Combine](https://www.donnywals.com/whats-the-difference-between-catch-and-replaceerror-in-combine/)
