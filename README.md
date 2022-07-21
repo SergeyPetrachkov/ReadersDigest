@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[URLSession configuration highlights](https://www.avanderlee.com/swift/urlsessionconfiguration/)
+
 [Optimizing images, downscaling, resizing and stuff](https://www.swiftjectivec.com/optimizing-images/)
 
 [Some tips to reduce memory footprint and OOM terminations](https://medium.com/@leandromperez/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217)
