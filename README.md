@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Alignment and alignment guides in SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/alignment-and-alignment-guides)
+
 [Loading & Caching images. Vanilla SwiftUI](https://www.avanderlee.com/swiftui/downloading-caching-images/)
 
 [Preview catalog and development assets](https://www.avanderlee.com/xcode/development-assets-preview-catalog/)
