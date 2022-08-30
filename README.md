@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[iOS Memory Deep Dive WWDC](https://developer.apple.com/videos/play/wwdc2018/416/?time=1074)
+
 [Main thread watchdog](https://www.jessesquires.com/blog/2022/08/11/implementing-a-main-thread-watchdog-on-ios)
 
 [The network connection was lost. What should I do?](https://developer.apple.com/library/archive/qa/qa1941/_index.html#//apple_ref/doc/uid/DTS40017602)
