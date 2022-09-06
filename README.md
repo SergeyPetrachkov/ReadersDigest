@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Control the timing of a combine pipeline](https://www.swiftbysundell.com/articles/controlling-the-timing-of-a-combine-pipeline/)
+
 [iOS Memory Deep Dive WWDC](https://developer.apple.com/videos/play/wwdc2018/416/?time=1074)
 
 [Main thread watchdog](https://www.jessesquires.com/blog/2022/08/11/implementing-a-main-thread-watchdog-on-ios)
