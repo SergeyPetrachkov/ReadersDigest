@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Resources and ObjC SPM](https://darjeelingsteve.com/articles/How-to-Use-Module-Resources-in-Objective-C-SPM-Packages.html)
+
 [Control the timing of a combine pipeline](https://www.swiftbysundell.com/articles/controlling-the-timing-of-a-combine-pipeline/)
 
 [iOS Memory Deep Dive WWDC](https://developer.apple.com/videos/play/wwdc2018/416/?time=1074)
