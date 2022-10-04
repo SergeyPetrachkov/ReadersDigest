@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Image resizing. How, why, when?](https://nshipster.com/image-resizing/)
+
 [Static/Dynamic/Message dispatch. Never gets old](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
 
 [SPM new features (not really new)](https://blog.eidinger.info/system-programming-interfaces-spi-in-swift-explained)
