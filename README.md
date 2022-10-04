@@ -1,6 +1,8 @@
 # Readers Digest 2022
 
-[SPM new features](https://blog.eidinger.info/system-programming-interfaces-spi-in-swift-explained)
+[Static/Dynamic/Message dispatch. Never gets old](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+
+[SPM new features (not really new)](https://blog.eidinger.info/system-programming-interfaces-spi-in-swift-explained)
 
 [Resources and ObjC SPM](https://darjeelingsteve.com/articles/How-to-Use-Module-Resources-in-Objective-C-SPM-Packages.html)
 
