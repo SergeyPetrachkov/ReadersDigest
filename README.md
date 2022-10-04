@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Thinking about memory when converting UIImage to Data](https://bencoding.com/2017/03/07/thinking-about-memory-converting-uiimage-to-data-in-swift/)
+
 [Image resizing. How, why, when?](https://nshipster.com/image-resizing/)
 
 [Static/Dynamic/Message dispatch. Never gets old](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
