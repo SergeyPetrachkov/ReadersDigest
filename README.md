@@ -1,6 +1,6 @@
 # Readers Digest 2022
 
-[Where does View.task get its Actor?](https://oleb.net/2022/swiftui-task-mainactor/)
+[Where does View.task get its Actor from?](https://oleb.net/2022/swiftui-task-mainactor/)
 
 [Thinking about memory when converting UIImage to Data](https://bencoding.com/2017/03/07/thinking-about-memory-converting-uiimage-to-data-in-swift/)
 
