@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Where does View.task get its Actor?](https://oleb.net/2022/swiftui-task-mainactor/)
+
 [Thinking about memory when converting UIImage to Data](https://bencoding.com/2017/03/07/thinking-about-memory-converting-uiimage-to-data-in-swift/)
 
 [Image resizing. How, why, when?](https://nshipster.com/image-resizing/)
