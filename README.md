@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[How to change any setting in control center. UI tests](https://betterprogramming.pub/how-to-change-any-setting-in-control-centre-during-a-ui-test-ea6377a31fd6)
+
 [Where does View.task get its Actor from?](https://oleb.net/2022/swiftui-task-mainactor/)
 
 [Thinking about memory when converting UIImage to Data](https://bencoding.com/2017/03/07/thinking-about-memory-converting-uiimage-to-data-in-swift/)
