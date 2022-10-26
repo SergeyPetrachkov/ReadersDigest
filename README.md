@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Common pitfalls with background sessions](https://www.avanderlee.com/swift/urlsession-common-pitfalls-with-background-download-upload-tasks/)
+
 [How to change any setting in control center. UI tests](https://betterprogramming.pub/how-to-change-any-setting-in-control-centre-during-a-ui-test-ea6377a31fd6)
 
 [Where does View.task get its Actor from?](https://oleb.net/2022/swiftui-task-mainactor/)
