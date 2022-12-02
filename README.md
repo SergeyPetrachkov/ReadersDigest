@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Improving build times with modularization](https://www.runway.team/blog/how-to-improve-ios-build-times-with-modularization)
+
 [Common pitfalls with background sessions](https://www.avanderlee.com/swift/urlsession-common-pitfalls-with-background-download-upload-tasks/)
 
 [How to change any setting in control center. UI tests](https://betterprogramming.pub/how-to-change-any-setting-in-control-centre-during-a-ui-test-ea6377a31fd6)
