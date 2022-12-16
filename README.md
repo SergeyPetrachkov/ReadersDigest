@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Old but gold. Understanding Swift performance](https://developer.apple.com/videos/play/wwdc2016/416/)
+
 [Improving build times with modularization](https://www.runway.team/blog/how-to-improve-ios-build-times-with-modularization)
 
 [Common pitfalls with background sessions](https://www.avanderlee.com/swift/urlsession-common-pitfalls-with-background-download-upload-tasks/)
