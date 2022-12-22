@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Why do my background tasks not run?](https://www.andyibanez.com/posts/common-reasons-background-tasks-fail-ios/)
+
 [Old but gold. Understanding Swift performance](https://developer.apple.com/videos/play/wwdc2016/416/)
 
 [Improving build times with modularization](https://www.runway.team/blog/how-to-improve-ios-build-times-with-modularization)
