@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Emerge: Static vs Dynamic frameworks](https://www.emergetools.com/blog/posts/static-vs-dynamic-frameworks-ios-discussion-chat-gpt)
+
 [Benchmarking Locks](https://www.vadimbulavin.com/benchmarking-locking-apis/)
 
 [Emerge: Cost of protocol conformance](https://www.emergetools.com/blog/posts/SwiftProtocolConformance)
