@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Benchmarking Locks](https://www.vadimbulavin.com/benchmarking-locking-apis/)
+
 [Emerge: Cost of protocol conformance](https://www.emergetools.com/blog/posts/SwiftProtocolConformance)
 
 [Emerge: swift reference types and its impact on binary](https://www.emergetools.com/blog/posts/SwiftReferenceTypes)
