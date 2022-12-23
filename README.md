@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Emerge: Cost of protocol conformance](https://www.emergetools.com/blog/posts/SwiftProtocolConformance)
+
 [Emerge: swift reference types and its impact on binary](https://www.emergetools.com/blog/posts/SwiftReferenceTypes)
 
 [Why do my background tasks not run?](https://www.andyibanez.com/posts/common-reasons-background-tasks-fail-ios/)
