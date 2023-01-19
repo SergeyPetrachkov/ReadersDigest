@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[GCD vs Swift Concurrency Thread to Thread](https://towardsdev.com/swift-concurrency-deep-dive-1-gcd-vs-async-await-280ac5df7c76)
+
 [DisfavoredOverload and Swift](https://www.fivestars.blog/articles/disfavoredOverload/)
 
 [Revisiting basics. Dispatch Queues, Threads, Processes](https://swiftrocks.com/understanding-dispatchqueues)
