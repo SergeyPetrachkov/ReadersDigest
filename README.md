@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Copy on write in Swift with examples](https://arturgruchala.com/copy-on-write-in-swift-explained-with-examples/)
+
 [Embed or not embed. That is the question](https://holyswift.app/frameworks-embed-or-not-embed-thats-the-question/)
 
 [New stuff in SwiftUI from 2022](https://developer.apple.com/videos/play/wwdc2022/10056/)
