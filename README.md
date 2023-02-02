@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Embed or not embed. That is the question](https://holyswift.app/frameworks-embed-or-not-embed-thats-the-question/)
+
 [New stuff in SwiftUI from 2022](https://developer.apple.com/videos/play/wwdc2022/10056/)
 
 [GCD vs Swift Concurrency, but a video by Apple](https://developer.apple.com/videos/play/wwdc2021/10254/)
