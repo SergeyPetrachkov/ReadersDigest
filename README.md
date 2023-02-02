@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[New stuff in SwiftUI from 2022](https://developer.apple.com/videos/play/wwdc2022/10056/)
+
 [GCD vs Swift Concurrency, but a video by Apple](https://developer.apple.com/videos/play/wwdc2021/10254/)
 
 [GCD vs Swift Concurrency Thread to Thread](https://towardsdev.com/swift-concurrency-deep-dive-1-gcd-vs-async-await-280ac5df7c76)
