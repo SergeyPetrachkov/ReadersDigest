@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Stretching header in SwiftUI. Spotify-like UI](https://danielsaidi.com/blog/2023/02/06/adding-a-stretchable-header-to-a-swiftui-scroll-view)
+
 [Code injection in Swift](https://www.vadimbulavin.com/code-injection-swift/)
 
 [Copy on write in Swift with examples](https://arturgruchala.com/copy-on-write-in-swift-explained-with-examples/)
