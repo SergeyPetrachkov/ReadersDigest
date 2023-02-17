@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[SwiftUI animation basics](https://medium.com/@amosgyamfi/learning-swiftui-spring-animations-the-basics-and-beyond-4fb032212487)
+
 [Stretching header in SwiftUI. Spotify-like UI](https://danielsaidi.com/blog/2023/02/06/adding-a-stretchable-header-to-a-swiftui-scroll-view)
 
 [Code injection in Swift](https://www.vadimbulavin.com/code-injection-swift/)
