@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[You dont always need weak self](https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef)
+
 [Memory layout in Swift, pages, words, etc](https://theswiftdev.com/memory-layout-in-swift/)
 
 [SwiftUI animation basics](https://medium.com/@amosgyamfi/learning-swiftui-spring-animations-the-basics-and-beyond-4fb032212487)
