@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[System design interview for mobile developers](https://dev.to/ecaselles/cracking-the-mobile-system-design-interview-ios-android-4kfi)
+
 [Memory layout, C, ObjC, Swift, undefined in size protocol holders go to heap](https://academy.realm.io/posts/goto-mike-ash-exploring-swift-memory-layout/)
 
 [You dont always need weak self](https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef)
