@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Memory layout, C, ObjC, Swift, undefined in size protocol holders go to heap](https://academy.realm.io/posts/goto-mike-ash-exploring-swift-memory-layout/)
+
 [You dont always need weak self](https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef)
 
 [Memory layout in Swift, pages, words, etc](https://theswiftdev.com/memory-layout-in-swift/)
