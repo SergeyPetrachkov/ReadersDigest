@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Asana goes to Tuist](https://blog.asana.com/2023/02/scaling-a-mature-ios-codebase-with-tuist/)
+
 [System design interview for mobile developers](https://dev.to/ecaselles/cracking-the-mobile-system-design-interview-ios-android-4kfi)
 
 [Memory layout, C, ObjC, Swift, undefined in size protocol holders go to heap](https://academy.realm.io/posts/goto-mike-ash-exploring-swift-memory-layout/)
