@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Software engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+
 [Asana goes to Tuist](https://blog.asana.com/2023/02/scaling-a-mature-ios-codebase-with-tuist/)
 
 [System design interview for mobile developers](https://dev.to/ecaselles/cracking-the-mobile-system-design-interview-ios-android-4kfi)
