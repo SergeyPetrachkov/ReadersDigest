@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[SPM and configurations](https://www.sobyte.net/post/2022-10/spm-in-xcode/)
+
 [Software engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 
 [Asana goes to Tuist](https://blog.asana.com/2023/02/scaling-a-mature-ios-codebase-with-tuist/)
