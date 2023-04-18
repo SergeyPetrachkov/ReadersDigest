@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Staff engineer. A few words about it](https://staffeng.com/)
+
 [SPM and configurations](https://www.sobyte.net/post/2022-10/spm-in-xcode/)
 
 [Software engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
