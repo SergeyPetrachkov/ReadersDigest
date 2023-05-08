@@ -1,6 +1,8 @@
 # Readers Digest 2022
 
-[Staff engineer. A few words about it](https://staffeng.com/)
+[XCConfig in a nutshell](https://nshipster.com/xcconfig/)
+
+[Staff engineer. Guidance and cool stories](https://staffeng.com/)
 
 [SPM and configurations](https://www.sobyte.net/post/2022-10/spm-in-xcode/)
 
