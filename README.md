@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[XCConfig management cheatsheet](https://pewpewthespells.com/blog/xcconfig_guide.html)
+
 [Secrets management in iOS](https://nshipster.com/secrets/)
 
 [XCConfig in a nutshell](https://nshipster.com/xcconfig/)
