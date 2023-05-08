@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Secrets management in iOS](https://nshipster.com/secrets/)
+
 [XCConfig in a nutshell](https://nshipster.com/xcconfig/)
 
 [Staff engineer. Guidance and cool stories](https://staffeng.com/)
