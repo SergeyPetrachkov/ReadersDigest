@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[How to avoid repeating SwiftUI view updates](https://mobileappcircular.com/how-to-avoid-repeating-swiftui-view-updates-dcf0a65d3758)
+
 [XCConfig management cheatsheet](https://pewpewthespells.com/blog/xcconfig_guide.html)
 
 [Secrets management in iOS](https://nshipster.com/secrets/)
