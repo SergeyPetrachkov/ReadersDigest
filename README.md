@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Building and loading dynamic libraries at runtime](https://theswiftdev.com/building-and-loading-dynamic-libraries-at-runtime-in-swift/)
+
 [Combine operators overview](https://medium.com/devtechie/combine-transforming-operators-d85e4921ee30)
 
 [How to avoid repeating SwiftUI view updates](https://mobileappcircular.com/how-to-avoid-repeating-swiftui-view-updates-dcf0a65d3758)
