@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Setting up a modular iOS app for multiple environments with Tuist](https://www.bam.tech/article/setting-up-a-modular-ios-app-for-multiple-environments-with-tuist)
+
 [Building and loading dynamic libraries at runtime](https://theswiftdev.com/building-and-loading-dynamic-libraries-at-runtime-in-swift/)
 
 [Combine operators overview](https://medium.com/devtechie/combine-transforming-operators-d85e4921ee30)
