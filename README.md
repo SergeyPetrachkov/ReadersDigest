@@ -1,5 +1,7 @@
 # Readers Digest 2022
 
+[Tuist and microfeatures](https://docs.tuist.io/building-at-scale/microfeatures)
+
 [Setting up a modular iOS app for multiple environments with Tuist](https://www.bam.tech/article/setting-up-a-modular-ios-app-for-multiple-environments-with-tuist)
 
 [Building and loading dynamic libraries at runtime](https://theswiftdev.com/building-and-loading-dynamic-libraries-at-runtime-in-swift/)
