@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Observation in Swift](https://developer.apple.com/videos/play/wwdc2023/10149)
+
 [Tuist and microfeatures](https://docs.tuist.io/building-at-scale/microfeatures)
 
 [Setting up a modular iOS app for multiple environments with Tuist](https://www.bam.tech/article/setting-up-a-modular-ios-app-for-multiple-environments-with-tuist)
