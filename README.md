@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Structured Logging](https://developer.apple.com/videos/play/wwdc2023/10226/)
+
 [Observation in Swift](https://developer.apple.com/videos/play/wwdc2023/10149)
 
 [Tuist and microfeatures](https://docs.tuist.io/building-at-scale/microfeatures)
