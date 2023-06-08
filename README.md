@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Writing Swift Macros](https://developer.apple.com/videos/play/wwdc2023/10166/)
+
 [Structured Logging](https://developer.apple.com/videos/play/wwdc2023/10226/)
 
 [Observation in Swift](https://developer.apple.com/videos/play/wwdc2023/10149)
