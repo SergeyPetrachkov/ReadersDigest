@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[StoreKit + SwiftUI](https://developer.apple.com/videos/play/wwdc2023/10013/)
+
 [Mergeable libraries](https://developer.apple.com/videos/play/wwdc2023/10268/)
 
 [Writing Swift Macros](https://developer.apple.com/videos/play/wwdc2023/10166/)
