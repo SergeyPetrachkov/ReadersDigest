@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Demystifying SwiftUI performance](https://developer.apple.com/videos/play/wwdc2023/10160/)
+
 [StoreKit + SwiftUI](https://developer.apple.com/videos/play/wwdc2023/10013/)
 
 [Mergeable libraries](https://developer.apple.com/videos/play/wwdc2023/10268/)
