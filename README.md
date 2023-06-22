@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[First observations on mergeable libraries](https://www.polpiella.dev/understanding-mergeable-libraries/)
+
 [Demystifying SwiftUI performance](https://developer.apple.com/videos/play/wwdc2023/10160/)
 
 [StoreKit + SwiftUI](https://developer.apple.com/videos/play/wwdc2023/10013/)
