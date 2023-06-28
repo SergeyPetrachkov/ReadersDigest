@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Diving into Observation framework](https://betterprogramming.pub/a-deep-dive-into-observation-a-new-way-to-boost-swiftui-performance-f299831c664b)
+
 [First observations on mergeable libraries](https://www.polpiella.dev/understanding-mergeable-libraries/)
 
 [Demystifying SwiftUI performance](https://developer.apple.com/videos/play/wwdc2023/10160/)
