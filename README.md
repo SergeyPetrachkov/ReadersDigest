@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[WWDC Beyond the basics of Structured concurrency](https://developer.apple.com/videos/play/wwdc2023/10170/)
+
 [Diving into Observation framework](https://betterprogramming.pub/a-deep-dive-into-observation-a-new-way-to-boost-swiftui-performance-f299831c664b)
 
 [First observations on mergeable libraries](https://www.polpiella.dev/understanding-mergeable-libraries/)
