@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[WWDC Build robust and resumable file transfers](https://developer.apple.com/videos/play/wwdc2023/10006/)
+
 [WWDC Beyond the basics of Structured concurrency](https://developer.apple.com/videos/play/wwdc2023/10170/)
 
 [Diving into Observation framework](https://betterprogramming.pub/a-deep-dive-into-observation-a-new-way-to-boost-swiftui-performance-f299831c664b)
