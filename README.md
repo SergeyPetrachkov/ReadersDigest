@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Analyzing build times with Xcode](https://www.avanderlee.com/optimization/analysing-build-performance-xcode/)
+
 [New parameter ownership modifiers in Swift 5.9](https://github.com/apple/swift-evolution/blob/main/proposals/0377-parameter-ownership-modifiers.md)
 
 [WWDC Build robust and resumable file transfers](https://developer.apple.com/videos/play/wwdc2023/10006/)
