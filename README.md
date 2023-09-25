@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Symbolicating SwiftUI](https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework)
+
 [Unlocking SwiftUI at AirBNB](https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49)
 
 [ObjC internals](https://alwaysprocessing.blog/)
