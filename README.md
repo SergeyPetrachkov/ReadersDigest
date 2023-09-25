@@ -1,5 +1,11 @@
 # Readers Digest 2023
 
+[Swift Package Manager: understand resolve, reset and update](https://blog.eidinger.info/swift-package-manager-understand-resolve-reset-and-update)
+
+[Distribute binary frameworks in Swift Packages and how to automate the process](https://blog.eidinger.info/distribute-binary-frameworks-in-swift-packages-and-how-to-automate-the-process)
+
+[Why is it so damn difficult to create a binary framework for your Swift Package](https://blog.eidinger.info/why-is-it-so-damn-difficult-to-create-a-binary-framework-for-your-swift-package)
+
 [Symbolicating SwiftUI](https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework)
 
 [Unlocking SwiftUI at AirBNB](https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49)
