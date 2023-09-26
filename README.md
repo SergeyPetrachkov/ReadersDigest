@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Thread safety with actors](https://swiftwithmajid.com/2023/09/19/thread-safety-in-swift-with-actors/)
+
 [Bleeding Edge of Swift Concurrency (Youtube)](https://www.youtube.com/watch?v=HqjqwW12wpw)
 
 [Swift Package Manager: understand resolve, reset and update](https://blog.eidinger.info/swift-package-manager-understand-resolve-reset-and-update)
