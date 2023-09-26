@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Bleeding Edge of Swift Concurrency (Youtube)](https://www.youtube.com/watch?v=HqjqwW12wpw)
+
 [Swift Package Manager: understand resolve, reset and update](https://blog.eidinger.info/swift-package-manager-understand-resolve-reset-and-update)
 
 [Distribute binary frameworks in Swift Packages and how to automate the process](https://blog.eidinger.info/distribute-binary-frameworks-in-swift-packages-and-how-to-automate-the-process)
