@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Async-Await. How does it work?](https://swiftrocks.com/how-async-await-works-internally-in-swift)
+
 [Thread safety with actors](https://swiftwithmajid.com/2023/09/19/thread-safety-in-swift-with-actors/)
 
 [Bleeding Edge of Swift Concurrency (Youtube)](https://www.youtube.com/watch?v=HqjqwW12wpw)
