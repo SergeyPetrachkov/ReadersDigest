@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Oh Snap Tool](https://github.com/krzysztofzablocki/OhSnap)
+
 [Async-Await, things they don't tell you](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)
 
 [Async-Await. How does it work?](https://swiftrocks.com/how-async-await-works-internally-in-swift)
