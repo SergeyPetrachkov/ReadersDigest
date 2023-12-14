@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Symbolicating SwiftUI Pt II](https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework-part-2)
+
 [Oh Snap Tool](https://github.com/krzysztofzablocki/OhSnap)
 
 [Async-Await, things they don't tell you](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)
