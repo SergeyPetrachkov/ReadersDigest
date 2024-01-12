@@ -1,5 +1,7 @@
 # Readers Digest 2023
 
+[Actors and protocols extensions](https://lucasvandongen.dev/swift_actors_and_protocol_extensions.php)
+
 [Symbolicating SwiftUI Pt II](https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework-part-2)
 
 [Oh Snap Tool](https://github.com/krzysztofzablocki/OhSnap)
