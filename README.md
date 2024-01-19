@@ -1,6 +1,10 @@
-# Readers Digest 2023
+# Readers Digest 2024
+
+[Reflection Metadata Level and Secutiry](https://blog.encoded.life/your-swift-app-is-full-of-symbols-even-if-stripped)
 
 [Actors and protocols extensions](https://lucasvandongen.dev/swift_actors_and_protocol_extensions.php)
+
+# Readers Digest 2023
 
 [Symbolicating SwiftUI Pt II](https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework-part-2)
 
