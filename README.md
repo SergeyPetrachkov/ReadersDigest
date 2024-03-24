@@ -1,4 +1,5 @@
 # Readers Digest 2024
+[EmergeTools - static vs dynamic + SPM + some tips](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
 
 [Reflection Metadata Level and Secutiry](https://blog.encoded.life/your-swift-app-is-full-of-symbols-even-if-stripped)
 
