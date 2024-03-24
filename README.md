@@ -1,4 +1,7 @@
 # Readers Digest 2024
+
+[@_silgen_name and dangerous (it depends!) optimizations](https://swiftrocks.com/using-silgenname-to-call-private-swift-code)
+
 [EmergeTools - static vs dynamic + SPM + some tips](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
 
 [Reflection Metadata Level and Secutiry](https://blog.encoded.life/your-swift-app-is-full-of-symbols-even-if-stripped)
