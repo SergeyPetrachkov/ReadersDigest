@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Global actors and usecases](https://swiftwithmajid.com/2024/03/12/global-actors-in-swift/)
+
 [Should I care about my app size? (Video)](https://www.youtube.com/watch?v=v3rYaEXzRh4&ab_channel=SwiftConf)
 
 [@_silgen_name and dangerous (it depends!) optimizations](https://swiftrocks.com/using-silgenname-to-call-private-swift-code)
