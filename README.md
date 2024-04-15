@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Tutorial: Menu bar app for macOS](https://sarunw.com/posts/swiftui-menu-bar-app/)
+
 [Global actors and usecases](https://swiftwithmajid.com/2024/03/12/global-actors-in-swift/)
 
 [Should I care about my app size? (Video)](https://www.youtube.com/watch?v=v3rYaEXzRh4&ab_channel=SwiftConf)
