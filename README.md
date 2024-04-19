@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Actor re-entrancy problem with explanation and example](https://www.donnywals.com/actor-reentrancy-in-swift-explained/)
+
 [Bazel migration story](https://brentley.dev/how-to-migrate-an-ios-app-to-bazel/)
 
 [Tutorial: Menu bar app for macOS](https://sarunw.com/posts/swiftui-menu-bar-app/)
