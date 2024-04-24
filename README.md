@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[List OSLog's on a screen](https://useyourloaf.com/blog/fetching-oslog-messages-in-swift)
+
 [Actor re-entrancy problem with explanation and example](https://www.donnywals.com/actor-reentrancy-in-swift-explained/)
 
 [Bazel migration story](https://brentley.dev/how-to-migrate-an-ios-app-to-bazel/)
