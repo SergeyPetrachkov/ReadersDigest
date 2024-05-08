@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Bumble and Tuist, Bazel](https://medium.com/bumble-tech/scaling-ios-at-bumble-239e0fa009f2)
+
 [Challenges with Xcode (Youtube vid)](https://www.youtube.com/watch?v=rh7gDpvXH2I)
 
 [Getting ready to Swift 6](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
