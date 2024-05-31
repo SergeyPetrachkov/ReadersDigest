@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[DocC tips and tricks](https://pspdfkit.com/blog/2024/generating-api-documentation-for-multiple-targets-with-docc/)
+
 [Preconcurrency tips and tricks](https://www.donnywals.com/preconcurrency-usage-in-swift-explained/)
 
 [Tip jar in your app with StoreKit2](https://blog.martinp7r.com/posts/creating-a-tip-jar-with-storekit-2/)
