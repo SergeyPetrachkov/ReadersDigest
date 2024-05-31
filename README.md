@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Preconcurrency tips and tricks](https://www.donnywals.com/preconcurrency-usage-in-swift-explained/)
+
 [Tip jar in your app with StoreKit2](https://blog.martinp7r.com/posts/creating-a-tip-jar-with-storekit-2/)
 
 [Scalable? SwiftUI navigation](https://medium.com/bumble-tech/scaling-ios-at-bumble-239e0fa009f2)
