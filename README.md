@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Variadic views and SwiftUI](https://movingparts.io/variadic-views-in-swiftui)
+
 [DocC tips and tricks](https://pspdfkit.com/blog/2024/generating-api-documentation-for-multiple-targets-with-docc/)
 
 [Preconcurrency tips and tricks](https://www.donnywals.com/preconcurrency-usage-in-swift-explained/)
