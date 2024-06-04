@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[A great summary of Swift Concurrency](https://swiftonserver.com/getting-started-with-structured-concurrency-in-swift/?utm_campaign=Not%2BOnly%2BSwift&utm_medium=web&utm_source=Not_Only_Swift_62)
+
 [Variadic views and SwiftUI](https://movingparts.io/variadic-views-in-swiftui)
 
 [DocC tips and tricks](https://pspdfkit.com/blog/2024/generating-api-documentation-for-multiple-targets-with-docc/)
