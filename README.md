@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Migrate your app to Swift6. WWDC](https://developer.apple.com/videos/play/wwdc2024/10169/)
+
 [AsyncImage in SwiftUI](https://matteomanferdini.com/swiftui-asyncimage/)
 
 [A great summary of Swift Concurrency](https://swiftonserver.com/getting-started-with-structured-concurrency-in-swift/?utm_campaign=Not%2BOnly%2BSwift&utm_medium=web&utm_source=Not_Only_Swift_62)
