@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Meet Swift Testing. WWDC](https://developer.apple.com/videos/play/wwdc2024/10179/)
+
 [Migrate your app to Swift6. WWDC](https://developer.apple.com/videos/play/wwdc2024/10169/)
 
 [AsyncImage in SwiftUI](https://matteomanferdini.com/swiftui-asyncimage/)
