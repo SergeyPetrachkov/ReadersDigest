@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Explicitly Built Modules. WWDC](https://developer.apple.com/videos/play/wwdc2024/10171/)
+
 [Meet Swift Testing. WWDC](https://developer.apple.com/videos/play/wwdc2024/10179/)
 
 [Migrate your app to Swift6. WWDC](https://developer.apple.com/videos/play/wwdc2024/10169/)
