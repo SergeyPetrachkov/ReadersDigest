@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Swift performance. WWDC](https://developer.apple.com/videos/play/wwdc2024/10217/)
+
 [Explicitly Built Modules. WWDC](https://developer.apple.com/videos/play/wwdc2024/10171/)
 
 [Meet Swift Testing. WWDC](https://developer.apple.com/videos/play/wwdc2024/10179/)
