@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Analyze heap memory. WWDC](https://developer.apple.com/videos/play/wwdc2024/10173/)
+
 [Swift performance. WWDC](https://developer.apple.com/videos/play/wwdc2024/10217/)
 
 [Explicitly Built Modules. WWDC](https://developer.apple.com/videos/play/wwdc2024/10171/)
