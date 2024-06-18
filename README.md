@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[New in UIKit. WWDC](https://developer.apple.com/videos/play/wwdc2024/10118/)
+
 [Analyze heap memory. WWDC](https://developer.apple.com/videos/play/wwdc2024/10173/)
 
 [Swift performance. WWDC](https://developer.apple.com/videos/play/wwdc2024/10217/)
