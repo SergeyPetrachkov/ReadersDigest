@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Xcode Build time optimization part1](https://www.onswiftwings.com/posts/build-time-optimization-part1/)
+
 [New in UIKit. WWDC](https://developer.apple.com/videos/play/wwdc2024/10118/)
 
 [Analyze heap memory. WWDC](https://developer.apple.com/videos/play/wwdc2024/10173/)
