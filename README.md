@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Advanced async sequence](https://swiftonserver.com/advanced-async-sequences/)
+
 [Xcode Build time optimization part1](https://www.onswiftwings.com/posts/build-time-optimization-part1/)
 
 [New in UIKit. WWDC](https://developer.apple.com/videos/play/wwdc2024/10118/)
