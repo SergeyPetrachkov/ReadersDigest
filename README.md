@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[Getting started with Swift Testing](https://www.polpiella.dev/swift-testing)
+
 [Advanced async sequence](https://swiftonserver.com/advanced-async-sequences/)
 
 [Xcode Build time optimization part1](https://www.onswiftwings.com/posts/build-time-optimization-part1/)
