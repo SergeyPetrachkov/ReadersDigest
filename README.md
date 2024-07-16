@@ -1,5 +1,7 @@
 # Readers Digest 2024
 
+[iOS at Revolut](https://medium.com/revolut/the-fundamentals-of-ios-at-revolut-f75acb765ac8)
+
 [Getting started with Swift Testing](https://www.polpiella.dev/swift-testing)
 
 [Advanced async sequence](https://swiftonserver.com/advanced-async-sequences/)
