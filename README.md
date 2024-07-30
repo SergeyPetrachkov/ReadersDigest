@@ -1,5 +1,9 @@
 # Readers Digest 2024
 
+[Modularization by Bruno Rocha](https://www.runway.team/blog/how-to-improve-ios-build-times-with-modularization)
+
+[Uber and Live activity](https://www.uber.com/en-GB/blog/live-activity-on-ios/)
+
 [iOS at Revolut](https://medium.com/revolut/the-fundamentals-of-ios-at-revolut-f75acb765ac8)
 
 [Getting started with Swift Testing](https://www.polpiella.dev/swift-testing)
