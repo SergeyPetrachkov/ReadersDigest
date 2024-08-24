@@ -1,5 +1,12 @@
 # Readers Digest 2024
 
+[Xcode Editor Config](https://www.polpiella.dev/xcode-editor-config)
+
+[`@isolated(any)`](
+https://github.com/swiftlang/swift-evolution/blob/main/proposals/0431-isolated-any-functions.m)
+
+[A few maybe controversial takes on non-sendable](https://massicotte.org/non-sendable)
+
 [Modularization by Bruno Rocha](https://www.runway.team/blog/how-to-improve-ios-build-times-with-modularization)
 
 [Uber and Live activity](https://www.uber.com/en-GB/blog/live-activity-on-ios/)
